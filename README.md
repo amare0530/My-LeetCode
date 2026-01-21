@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/amare0530/My-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amare0530/My-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/amare0530/My-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amare0530/My-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
