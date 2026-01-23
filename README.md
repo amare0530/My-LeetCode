@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amare0530/My-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/amare0530/My-LeetCode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/amare0530/My-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/amare0530/My-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/amare0530/My-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amare0530/My-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/amare0530/My-LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amare0530/My-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/amare0530/My-LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -36,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amare0530/My-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/amare0530/My-LeetCode/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/amare0530/My-LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
